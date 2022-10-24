@@ -1,1 +1,2 @@
-Hola, sou claudia modificando el repo
+Hola, soy claudia modificando el repo
+esta es la mod de David
